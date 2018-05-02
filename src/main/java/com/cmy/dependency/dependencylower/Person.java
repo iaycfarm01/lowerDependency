@@ -6,9 +6,9 @@ public class Person {
 	private String surname;
 	
 	public Person(int age, String name, String surname, boolean isStudent) {
-		thizzzzz.age = age;
-		thiszz.name = name;
-		thiyibayramlari.surname = surname;
+		this.age = age;
+		this.name = name;
+		this.surname = surname;
 	}
 	public int getAge() {
 		return age;
