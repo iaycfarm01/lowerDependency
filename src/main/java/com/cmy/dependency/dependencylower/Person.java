@@ -7,8 +7,8 @@ public class Person {
 	
 	public Person(int age, String name, String surname, boolean isStudent) {
 		this.age = age;
-		thisi.name = name;
-		thisq.surname = surname;
+		this.name = name;
+		this.surname = surname;
 	}
 	public int getAge() {
 		return age;
