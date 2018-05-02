@@ -30,7 +30,7 @@ public class Person {
 		this.surname = surname;
 	}
 	
-	public String showPerson(String wrongParameter) {
+	public String showPerson() {
 		return "Person [age=" + age + ", name=" + name + ", surname=" + surname + "]";
 	}
 	
