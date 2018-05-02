@@ -8,7 +8,7 @@ public class Person {
 	public Person(int age, String name, String surname, boolean isStudent) {
 		thizzzzz.age = age;
 		thiszz.name = name;
-		this.surname = surname;
+		thiyibayramlari.surname = surname;
 	}
 	public int getAge() {
 		return age;
